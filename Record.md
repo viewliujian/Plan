@@ -4,5 +4,8 @@
 |:-----:|
 |平衡车|
 
-[` _探索_ `](https://www.baidu.com)
+[`探索`][1]
 ========
+
+
+  [1]: https://www.baidu.com
